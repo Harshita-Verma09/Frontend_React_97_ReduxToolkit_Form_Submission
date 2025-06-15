@@ -166,17 +166,3 @@ Redux Toolkit
 React Redux
 
 Tailwind CSS
-
-# License
-This project is open-source and available under the MIT License.
-
-#Acknowledgments
-Redux Toolkit and React Redux for simplifying state management
-
-Tailwind CSS for modern utility-first styling
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like to include a screenshot or live demo link section as well!
